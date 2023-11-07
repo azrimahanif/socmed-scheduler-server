@@ -1,1 +1,1 @@
-# socmed-scheduler-server
+# Socmed-Task-Scheduler-server
